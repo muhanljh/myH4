@@ -1,4 +1,30 @@
 ## Welcome to GitHub Pages
+科技日新月异，我们与时代共进
+文学
+哲学
+天文学
+编程学
+科学
+生物学
+总之学习
+from a country.
+a student in high shcool.
+and be interested in the compurter
+2018 10.18 17:06 now
+the world always changed
+never konw
+who can win
+just a kid
+english does't very well
+lead
+......
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/muhanljh/myH4/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
